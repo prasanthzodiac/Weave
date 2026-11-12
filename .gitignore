@@ -1,0 +1,4 @@
+node_modules/
+.single/
+*.log
+scripts/_*
